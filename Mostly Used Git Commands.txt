@@ -1,0 +1,13 @@
+*Main Commands*
+git status   >>>> Showing Un-Modifies Files.
+git add (Filename)   >>>> Adding any single File.
+git add .   >>>> Adding All Files.
+git commit -m "(Message)"   >>>> Sending Message (Tweaks name).
+git push   >>>> Pushing the Added Command.
+git push -u origin (Name)   >>>> Setup to Track to Added Command.
+git branch (Name)   >>>> Showing all Branches.
+git checkout (Name)   >>>> Showing all Branches.
+git checkout -b (Name)   >>>> Convert and Showing the Branches.
+git pull   >>>> Pushing the Added Command.
+git branch -d (Name)  >>>> Deleting the Command.
+
